@@ -1,0 +1,4 @@
+import funcoes
+
+funcoes.menu()
+
