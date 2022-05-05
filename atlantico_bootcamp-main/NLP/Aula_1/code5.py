@@ -33,5 +33,5 @@ line_num_words = [len(t_line) for t_line in tokenized_lines]
 plt.hist(line_num_words)
 
 
-# Show the plot
+# Show the plot.
 plt.show()
